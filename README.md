@@ -13,11 +13,11 @@ Mariam Ahmed | 2
 1. **_Clone the repository_**
 
 ```sh
-$ git clone https://github.com/SamaMostafa1/-sbe3110_f22_task2_Team-19
+$ git clone https://github.com/SamaMostafa1/DSP_Task1_-15-
 ```
 2. **_Navigate to repository directory_**
 ```sh
-$ cd -sbe3110_f22_task2_Team-19
+$ cd -DSP_Task1_-15-
 ```
 3. **_install project dependencies_**
 ```sh
@@ -32,7 +32,7 @@ streamlit run main.py
 - Streamlit
 - Pandas
 - Numpy
-
+## project Features
 
 Uploading Sampling Dashboard - Google Chrome 2022-11-01 17-16-21.mp4…
 
